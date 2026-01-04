@@ -25,19 +25,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pawansingh1618/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/pawansinghshiva2030/">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=orange" />
   </a>
   <a href="https://www.codechef.com/users/pawansingh_314">
-    <img src="https://skillicons.dev/icons?i=codechef" height="40"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://www.hackerearth.com/@pawansinghshiva2030/">
-    <img src="https://skillicons.dev/icons?i=hackerearth" height="40"/>
+    <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=blue" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/pawansingh7jgd/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
