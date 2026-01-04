@@ -2,49 +2,57 @@
 <h3 align="center">Software Engineer | Full-Stack & Flutter Developer | DSA (C++ / Java)</h3>
 
 <p align="center">
-Building scalable applications, solving DSA problems, and strengthening core CS fundamentals.
+  Building scalable applications, solving DSA problems, and strengthening core CS fundamentals.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pawan1618&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan1618" />
+  <img src="https://komarev.com/ghpvc/?username=Pawan1618&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎯 Focused on **Data Structures & Algorithms** and **System Fundamentals**
-- 💻 Solving problems in **C++ & Java**
-- 🌐 Building **Full-Stack apps** with Next.js & Supabase
-- 📱 Developing **cross-platform apps** using Flutter
-- ⚙️ Exploring **Docker, CI/CD & DevOps workflows**
+
+- 🎯 Focused on <b>Data Structures & Algorithms</b> and <b>System Fundamentals</b>
+- 💻 Solving problems in <b>C++ & Java</b>
+- 🌐 Building <b>Full-Stack applications</b> using <b>Next.js & Supabase</b>
+- 📱 Developing <b>cross-platform mobile apps</b> with <b>Flutter</b>
+- ⚙️ Exploring <b>Docker, CI/CD & DevOps workflows</b>
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/pawansingh1618/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-<a href="https://leetcode.com/u/pawansinghshiva2030/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40"/>
-</a>
-<a href="https://www.codechef.com/users/pawansingh_314" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" height="40"/>
-</a>
-<a href="https://www.hackerearth.com/@pawansinghshiva2030/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerearth/hackerearth-original.svg" height="40"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/pawansingh7jgd/" target="_blank">
-  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230803132714/GeeksforGeeks-Logo.png" height="40"/>
-</a>
+  <a href="https://www.linkedin.com/in/pawansingh1618/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://leetcode.com/u/pawansinghshiva2030/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40"/>
+  </a>
+  <a href="https://www.codechef.com/users/pawansingh_314">
+    <img src="https://skillicons.dev/icons?i=codechef" height="40"/>
+  </a>
+  <a href="https://www.hackerearth.com/@pawansinghshiva2030/">
+    <img src="https://skillicons.dev/icons?i=hackerearth" height="40"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/pawansingh7jgd/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠 Languages & Tools
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,dart,react,nextjs,flutter,tailwind,docker,git,github,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,firebase,supabase" />
 </p>
 
 ---
@@ -52,15 +60,27 @@ Building scalable applications, solving DSA problems, and strengthening core CS 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pawan1618&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan1618&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Pawan1618&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan1618&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan1618&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan1618&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="140"
+  />
 </p>
 
 ---
+
+
+
 
 ⭐ *If you like my work, consider starring the repositories*
 
