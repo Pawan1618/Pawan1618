@@ -11,6 +11,38 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pawan1618&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pawan1618&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawan1618&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pawan1618&theme=tokyo-night" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 - 🎯 Focused on <b>Data Structures & Algorithms</b> and <b>System Fundamentals</b>
@@ -57,25 +89,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pawan1618&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Pawan1618&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan1618&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="140"
-  />
-</p>
 
 ---
 
