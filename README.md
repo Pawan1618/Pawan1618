@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pawan Singh</h1>
-<h3 align="center">Software Engineer | Full-Stack & Flutter Developer | DSA (C++ / Java)</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer | DSA (C++ / Java)</h3>
 
 <p align="center">
   Building scalable applications, solving DSA problems, and strengthening core CS fundamentals.
